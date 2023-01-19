@@ -1,6 +1,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-1704.05694%20-red)](https://arxiv.org/abs/1704.05694)
 
-Forked NEURAL package with adaptations to work with EDF files exported by the Natus Olympic Brainz Monitor (OBM).
+Fork of John O'Toole's NEURAL package with adaptations to work with EDF files exported by the Natus Olympic Brainz Monitor (OBM).
 Changes:
 - added external edfread function [matlabcentral](https://au.mathworks.com/matlabcentral/fileexchange/31900-edfread)
 - analysis scripts: read left and right EEG channel separately (OBM exports one edf per channel)
